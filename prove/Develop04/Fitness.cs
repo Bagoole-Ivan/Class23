@@ -1,5 +1,5 @@
 using System.IO; 
-public class Journal {
+public class Fitness {
     public string _filename = "";
     public List<Entry> _entries = new List<Entry>();
     public void Display()
