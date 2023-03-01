@@ -2,6 +2,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Fitness Fitness = new Fitness();
         int quit = 0;
         while (quit != 4){
             Console.Clear();
